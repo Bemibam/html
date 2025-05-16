@@ -7,4 +7,4 @@
 - x
 - z
 # photo Demo
-![[Demo.jpg](../Photos/Demo.jpg)
+![Demo.jpg](../Photos/Demo.jpg)
