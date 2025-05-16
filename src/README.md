@@ -6,5 +6,5 @@
 ## two
 - x
 - z
-# photos
-![![Demo.jpg](../Photos/Demo.jpg)
+# photo Demo
+![[Demo.jpg](../Photos/Demo.jpg)
